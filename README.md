@@ -1,4 +1,3 @@
-Plugin for CakePHP (2.x) used for EmailLabs (http://emaillabs.pl) integration.
 <h2>Installation</h2>
 <h4>Composer</h4>
 Add the following package to composer.json:
